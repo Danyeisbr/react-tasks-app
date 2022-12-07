@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-tasks-app/static/css/main.a0356220.css",
+    "main.js": "/react-tasks-app/static/js/main.9e6f1de4.js",
+    "static/media/bootstrap-logo.png": "/react-tasks-app/static/media/bootstrap-logo.f132cb791703420e69ca.png",
+    "index.html": "/react-tasks-app/index.html",
+    "main.a0356220.css.map": "/react-tasks-app/static/css/main.a0356220.css.map",
+    "main.9e6f1de4.js.map": "/react-tasks-app/static/js/main.9e6f1de4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0356220.css",
+    "static/js/main.9e6f1de4.js"
+  ]
+}
